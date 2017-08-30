@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/caojun/AndroidStudioProjects/Nsg/app/libs"><file name="AFinal.jar" path="/Users/caojun/AndroidStudioProjects/Nsg/app/libs/AFinal.jar"/><file name="Image.jar" path="/Users/caojun/AndroidStudioProjects/Nsg/app/libs/Image.jar"/></source></dataSet><dataSet config="debug"><source path="/Users/caojun/AndroidStudioProjects/Nsg/app/src/debug/jniLibs"/></dataSet></merger>

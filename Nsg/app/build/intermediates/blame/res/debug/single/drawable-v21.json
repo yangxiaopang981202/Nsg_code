@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\selector_color_add_main.xml",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\drawable-v21\\selector_color_add_main.xml"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\selector_color_main_add.xml",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\drawable-v21\\selector_color_main_add.xml"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\selector_color_white_add.xml",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\drawable-v21\\selector_color_white_add.xml"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/caojun/.android/build-cache/f2c62c762080e908ae07655b264fa1507b4bc651/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/caojun/.android/build-cache/f2c62c762080e908ae07655b264fa1507b4bc651/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/caojun/.android/build-cache/f2c62c762080e908ae07655b264fa1507b4bc651/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/drawable-v21/selector_color_red_add.xml",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/drawable-v21/selector_color_red_add.xml"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\selector_color_red_add.xml",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\drawable-v21\\selector_color_red_add.xml"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/drawable-v21/selector_color_main_add.xml",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/drawable-v21/selector_color_main_add.xml"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/drawable-v21/selector_color_add_main.xml",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/drawable-v21/selector_color_add_main.xml"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/drawable-v21/selector_color_white_add.xml",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/drawable-v21/selector_color_white_add.xml"
+    }
+]

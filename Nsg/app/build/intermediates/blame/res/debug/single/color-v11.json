@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/caojun/.android/build-cache/f2c62c762080e908ae07655b264fa1507b4bc651/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/caojun/.android/build-cache/f2c62c762080e908ae07655b264fa1507b4bc651/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

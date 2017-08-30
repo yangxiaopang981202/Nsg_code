@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\bg_load.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_load.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/bg_load.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xxhdpi/bg_load.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

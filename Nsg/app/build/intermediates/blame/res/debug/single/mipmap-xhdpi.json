@@ -1,0 +1,602 @@
+[
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_goods_list_hor.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_goods_list_hor.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_normal_dot_left.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_normal_dot_left.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_action_share.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_action_share.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_home_nav_user.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_home_nav_user.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_nav_home.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_nav_home.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_user_address.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_user_address.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_action_notify.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_action_notify.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_home_nav_user.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_nav_user.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_normal_search.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_normal_search.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_action_collection_press.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_action_collection_press.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_edit_search.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_edit_search.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_user_property_red.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_user_property_red.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_user_order.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_user_order.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_normal_class.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_normal_class.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_action_more.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_action_more.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_nav_cart.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_nav_cart.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_normal_message.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_normal_message.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_normal_search.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_normal_search.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_action_nav.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_action_nav.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_item_goods.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_item_goods.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_normal_class_press.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_normal_class_press.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_switch_true.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_switch_true.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_user_property.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_user_property.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_user_property_money.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_user_property_money.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_user_property_integral.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_user_property_integral.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_action_nav.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_action_nav.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_user_property_card.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_user_property_card.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_action_notify.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_action_notify.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_nav_class.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_nav_class.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_nav_user.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_nav_user.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_border_goods_tg.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_border_goods_tg.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_action_del.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_action_del.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_action_more.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_action_more.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_normal_title_left.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_normal_title_left.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_browser_nav_next.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_browser_nav_next.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_home_nav_cart.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_home_nav_cart.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_user_order_wait_refund.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_user_order_wait_refund.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_pay_alipay.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_pay_alipay.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_goods_store.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_goods_store.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_user_property_red.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_user_property_red.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_nav_home_press.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_nav_home_press.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_user_setting.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_user_setting.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_item_collection.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_item_collection.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_user_order_wait_comment.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_user_order_wait_comment.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_nav_cart_press.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_nav_cart_press.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_nav_class_press.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_nav_class_press.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_goods_list_ver.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_goods_list_ver.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_action_add.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_action_add.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_action_share.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_normal_message.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_normal_message.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_user_property.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_user_property.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_item_collection.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_item_collection.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_nav_user_press.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_nav_user_press.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_edit_password.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_edit_password.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_goods_cart.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_goods_cart.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_nav_class_press.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_nav_class_press.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_action_message.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_action_message.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_nav_cart.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_nav_cart.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_browser_nav_next.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_browser_nav_next.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_border_goods_tg.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_border_goods_tg.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_action_back.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_action_back.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_normal_man.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_normal_man.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_action_next.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_action_next.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_user_property_integral.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_user_property_integral.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_normal_title_left.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_normal_title_left.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_user_order_wait_pay.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_user_order_wait_pay.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_browser_nav_refresh.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_browser_nav_refresh.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_action_write.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_action_write.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_browser_nav_share.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_browser_nav_share.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_action_next.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_action_next.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_switch_false.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_switch_false.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_user_order_wait_refund.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_user_order_wait_refund.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_user_order_wait_comment.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_user_order_wait_comment.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_nav_user.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_nav_user.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_code_close.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_code_close.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_collection_goods.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_collection_goods.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_edit_email.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_edit_email.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_normal_code.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_normal_code.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_user_order_wait_pay.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_user_order_wait_pay.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_collection_goods.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_collection_goods.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_home_nav_class.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_home_nav_class.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_edit_username.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_edit_username.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_goods_kefu.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_goods_kefu.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_user_footprint.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_user_footprint.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_code_close.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_code_close.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_action_collection.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_action_collection.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_switch_false.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_switch_false.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_user_property_card.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_user_property_card.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_nav_home.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_nav_home.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_action_collection.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_action_collection.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_home_nav_sign.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_nav_sign.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_home_nav_class.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_nav_class.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_user_footprint.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_user_footprint.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_switch_true.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_switch_true.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_user_order_wait_drive.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_user_order_wait_drive.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_edit_password.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_edit_password.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_user_setting.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_user_setting.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_action_write.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_action_write.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_item_goods.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_item_goods.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_normal_class.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_normal_class.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_normal_class_press.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_normal_class_press.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_action_search.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_pay_wx.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_pay_wx.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_user_property_vouchers.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_user_property_vouchers.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_user_address.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_user_address.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_action_search.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_nav_cart_press.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_nav_cart_press.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_browser_nav_share.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_browser_nav_share.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_browser_nav_back.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_browser_nav_back.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_edit_search.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_edit_search.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_normal_man.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_normal_man.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_goods_kefu.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_goods_kefu.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_home_nav_cart.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_nav_cart.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_nav_user_press.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_nav_user_press.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_user_property_money.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_user_property_money.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_user_order_wait_drive.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_user_order_wait_drive.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_home_nav_sign.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_home_nav_sign.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_goods_list_ver.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_goods_list_ver.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_border_goods_hot.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_border_goods_hot.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_user_order_wait_receipt.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_user_order_wait_receipt.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_action_back.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_action_back.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_border_goods_qg.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_border_goods_qg.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_goods_cart.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_goods_cart.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_action_message.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_action_message.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_browser_nav_top.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_browser_nav_top.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_pay_wx.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_pay_wx.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_nav_home_press.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_nav_home_press.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_edit_email.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_edit_email.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_edit_username.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_edit_username.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_pay_alipay.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_pay_alipay.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_user_order.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_user_order.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_user_order_wait_receipt.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_user_order_wait_receipt.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_action_del.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_action_del.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_normal_code.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_normal_code.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_goods_list_hor.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_goods_list_hor.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_goods_store.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_goods_store.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_nav_class.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_nav_class.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_border_goods_qg.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_border_goods_qg.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_user_property_vouchers.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_user_property_vouchers.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_action_add.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_collection_store.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_collection_store.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_border_goods_hot.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_border_goods_hot.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_collection_store.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_collection_store.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_browser_nav_top.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_browser_nav_top.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_browser_nav_back.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_browser_nav_back.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_action_collection_press.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_action_collection_press.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_normal_dot_left.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/C:\\project_test7\\Nsg\\app\\src\\main\\res\\mipmap-xhdpi\\ic_normal_dot_left.png"
+    },
+    {
+        "merged": "/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_browser_nav_refresh.png",
+        "source": "/Users/caojun/AndroidStudioProjects/Nsg/app/src/main/res/mipmap-xhdpi/ic_browser_nav_refresh.png"
+    }
+]

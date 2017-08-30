@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/caojun/.android/build-cache/40da0eabe29e940c8df5c8f2d7ad2c4ffe497f21/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9bc95e414f36d0089c5346c2782552a60b44cc51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caojun/.gradle/caches/modules-2/files-2.1/com.google.zxing/android-core/3.2.1/c1de4bba95fac060cc96a3af39ef6ffd17e18157/android-core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c1de4bba95fac060cc96a3af39ef6ffd17e18157">
+        <dex dex="/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-core-3.2.1_ac10dcae0926d2774294f7e97c02af3ddc60fa8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caojun/.android/build-cache/19373d30971d7d83087d5c2076bca7d6c7df379a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="890be6e1e56a883c9b407a11e067a61886dec123">
+        <dex dex="/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ec47760b4e066c1d104dc10b7213189813a961e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caojun/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.2.7/a5c721e8ea1e18854272879d6ed2770d25feb342/fastjson-1.2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a5c721e8ea1e18854272879d6ed2770d25feb342">
+        <dex dex="/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/transforms/dex/debug/folders/1000/10/fastjson-1.2.7_ea4790c5171d401c1a89e00df401c56092e5a6b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caojun/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.0_37e49fb88c6a288247444edc964d5ed6d0d4d2bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caojun/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.2.1_dd834fef443e5716fb3781bab124ec7e7f491bc8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caojun/AndroidStudioProjects/Nsg/app/libs/AFinal.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ae398c74701392473b9cb488c76a92576d6f548c">
+        <dex dex="/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/transforms/dex/debug/folders/1000/2/AFinal_7f7bd1b644df22aa220f3e64e35520bc5ee7569d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caojun/AndroidStudioProjects/Nsg/app/libs/Image.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/transforms/dex/debug/folders/1000/2/Image_8fdcd6e4282374e6e1d4baf1020b7c3ab22e0f46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_25757a20ce2d9751a137fbec67ba74e5c81c1972/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caojun/.android/build-cache/4d2e9dd49ecf182ec172aad1535c6e15d38b02ae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3c20e33751ae98fa9c05c052fabb1d3603801af7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caojun/.android/build-cache/7040a0ae118fbc3452c90b11fdbdbf93e15d4ba3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4d911a15fcfae66250e3296233b7dc6cc8096bc9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="54e249c9db3aa90c071a8b1a2f7e3a749bc4ed35">
+        <dex dex="/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_badcd986c76a82e2114460dfe1b46c05efd8cc43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caojun/.android/build-cache/da8562bfe9ab8e42c6341a894601a382c6441f84/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_75f411f8cb7a44c990708c6ac32551e45e8f40fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caojun/.android/build-cache/f2c62c762080e908ae07655b264fa1507b4bc651/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_014ea24fc136989012bf02a4b5eb4f2dd11dd03d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caojun/.android/build-cache/4d2e9dd49ecf182ec172aad1535c6e15d38b02ae/output/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.0_5cd7fb5e45b344f19ec05ed0dcf8f743ec2e130d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caojun/.android/build-cache/6c436d4d7644713d5cd4680c5036356835b2743c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/caojun/AndroidStudioProjects/Nsg/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c1dc2400b59980753f087098a5552da723e07ae/classes.dex" />
+    </item>
+
+</items>
